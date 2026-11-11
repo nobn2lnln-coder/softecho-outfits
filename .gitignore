@@ -1,0 +1,5 @@
+# release files go to GitHub Releases, not into the repository
+*.unitypackage
+*.zip
+*.fbx
+release/
